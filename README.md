@@ -1,5 +1,5 @@
 # Unidad 2
-[Ir a mi direccion ip](htt://23.21.170.222)
+[Ir a mi direccion ip](http://23.21.170.222)
 
 [A1](A1/SobreMi.html)
 
