@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<pedidos>
+    <pedido cod="1">
+        <fecha>24 10 2024</fecha>
+        <pu>45.5</pu>
+        <cantidad>2</cantidad>
+        <descripcion>Botella de Vino</descripcion>
+        <tipo>C</tipo>
+    </pedido>
+    <pedido cod="2">
+        <fecha>24 10 2024</fecha>
+        <pu>25</pu>
+        <cantidad>1</cantidad>
+        <descripcion>Menu Ejecutivo</descripcion>
+        <tipo>A</tipo>
+    </pedido>
+</pedidos>
