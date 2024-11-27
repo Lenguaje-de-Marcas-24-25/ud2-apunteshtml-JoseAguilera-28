@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<hechos>
+    <hecho descripcion="Descubrimiento de América">
+        <dia>12</dia>
+        <mes>10</mes>
+        <año>1492</año>
+    </hecho>
+    <hecho descripcion="Llegada del hombre a la Luna">
+        <dia>20</dia>
+        <mes>7</mes>
+        <año>1969</año>
+    </hecho>
+    <hecho descripcion="Caída del Muro de Berlín">
+        <dia>9</dia>
+        <mes>11</mes>
+        <año>1989</año>
+    </hecho>
+</hechos>
