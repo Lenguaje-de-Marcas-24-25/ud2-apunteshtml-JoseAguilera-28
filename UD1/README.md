@@ -6,7 +6,7 @@
 
 [Tarea1](Tarea1/README.md)
 
-[Tarea2](Tarea1/README.md)
+[Tarea2](Tarea2/README.md)
 
 [Tarea3](Tarea3/README.md)
 
