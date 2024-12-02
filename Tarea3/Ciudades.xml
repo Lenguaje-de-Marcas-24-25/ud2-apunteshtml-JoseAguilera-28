@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<ciudades continente="Europa">
+    <ciudad>
+        <nombre>Madrid</nombre>
+        <pais>España</pais>
+        <poblacion>3266126</poblacion>
+    </ciudad>
+    <ciudad>
+        <nombre>París</nombre>
+        <pais>Francia</pais>
+        <poblacion>2148327</poblacion>
+    </ciudad>
+    <ciudad>
+        <nombre>Berlín</nombre>
+        <pais>Alemania</pais>
+        <poblacion>3644826</poblacion>
+    </ciudad>
+</ciudades>
